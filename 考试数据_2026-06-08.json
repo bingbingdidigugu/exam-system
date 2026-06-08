@@ -1,0 +1,263 @@
+﻿{
+  "exams": {
+    "mq0lnjzuq3162d": {
+      "title": "测试试卷-试卷导入模板",
+      "questions": [
+        {
+          "type": "single",
+          "question": "《精益工具箱》第4版相比前一版，新增内容不包括以下哪一项？",
+          "answer": "D",
+          "options": [
+            "A. 实施框架",
+            "B. 波动（Mura）和过载（Muri）",
+            "C. 价值流分析（VSM）的新拓展",
+            "D. 六西格玛管理"
+          ],
+          "score": 5
+        },
+        {
+          "type": "multiple",
+          "question": "精益演化经历的阶段包括？（多选）",
+          "answer": [
+            "A",
+            "B",
+            "C"
+          ],
+          "options": [
+            "A. 工具阶段",
+            "B. 原则阶段",
+            "C. 行为驱动阶段",
+            "D. 文化阶段"
+          ],
+          "score": 10
+        },
+        {
+          "type": "fill",
+          "question": "精益演化的三个阶段依次是：_______、_______、_______。",
+          "answer": "工具；原则；行为驱动",
+          "score": 15
+        },
+        {
+          "type": "fill",
+          "question": "精益屋的两大支柱是准时制生产（JIT）和______（Jidoka）。",
+          "answer": "自働化",
+          "score": 15
+        },
+        {
+          "type": "fill",
+          "question": "在督导人员培训(TWI)中,工作指导模块主要教导班组长如何_______。",
+          "answer": "正确教导员工操作方法",
+          "score": 15
+        },
+        {
+          "type": "short",
+          "question": "简述精益改善的五个层级及其特点。",
+          "answer": "1、个人改善2、减少浪费3、团队改善4、点改善5、处理复杂的问题6、价值流改善7、供应链改善",
+          "fullAnswer": "第一层级是个人改善,操作员被视为自己过程的专家,在单个工作位层级减少浪费;第二层级是工作小组或迷你点改善,团队在工作单元或生产线工段共同改善;第三层级是闪电改善小组或点改善,处理比团队更复杂的问题,活动结束即解散;第四层级是价值流改善或流动改善团队,跨整个内部价值流开展工作,项目延续数周甚至3个月;第五层级是供应链改善团队,由来自参与组织的代表组成,开展非全职的改善工作。",
+          "score": 20
+        },
+        {
+          "type": "short",
+          "question": "目标成本法中，实现零件和产品目标成本的三条路径是什么？各自涉及哪些工具？",
+          "answer": "1、市场价格的权衡2、和供应商之间的谈判3、价格的敏感性分析4、狩野模型5、QFD6、六西格玛7、价值工程8、组织间的发展9、与供应商合作降本10、关注各阶段成本管理",
+          "fullAnswer": "三条路径：(1)市场-价格的权衡，包括设计人员和市场人员、OEM和供应商之间的谈判，以及价格的敏感性分析。核心工具是狩野模型、QFD、六西格玛以及居于中央的价值工程。(2)组织间的发展，需要与供应商伙伴合作来达成降本，沿供应链的每一家公司都被期望逐层参与进去，审计参与其中。(3)同步成本管理，可以用于内部或者直接供应商，关注各个阶段的成本，从概念设计阶段到生产阶段。",
+          "score": 20
+        }
+      ],
+      "totalScore": 100,
+      "createdAt": 1780644321786,
+      "examId": "mq0lnjzuq3162d"
+    }
+  },
+  "results": {
+    "mq0lnjzuq3162d": {
+      "555": {
+        "name": "PURU",
+        "employeeId": "555",
+        "score": 81,
+        "totalScore": 100,
+        "wrongCount": 0,
+        "total": 7,
+        "correct": 7,
+        "wrongs": [],
+        "answers": [
+          {
+            "index": 0,
+            "studentAns": "D",
+            "isCorrect": true,
+            "earnedScore": 5,
+            "totalScore": 5,
+            "score": 5,
+            "reason": "✓ 得5分"
+          },
+          {
+            "index": 1,
+            "studentAns": [
+              "A",
+              "B",
+              "C"
+            ],
+            "isCorrect": true,
+            "earnedScore": 10,
+            "totalScore": 10,
+            "score": 10,
+            "reason": "选择A、B、C与标准一致，得10分 ✓"
+          },
+          {
+            "index": 2,
+            "studentAns": "工具，原则，行为",
+            "isCorrect": true,
+            "earnedScore": 15,
+            "totalScore": 15,
+            "score": 15,
+            "reason": "要点1\"工具\"：✓+5分 (包含)；要点2\"原则\"：✓+5分 (包含)；要点3\"行为驱动\"：✓+5分 (包含)"
+          },
+          {
+            "index": 3,
+            "studentAns": "自动化",
+            "isCorrect": true,
+            "earnedScore": 15,
+            "totalScore": 15,
+            "score": 15,
+            "reason": "答案与标准答案高度相似（67%），得15分 ✓"
+          },
+          {
+            "index": 4,
+            "studentAns": "正确培训员工",
+            "isCorrect": true,
+            "earnedScore": 15,
+            "totalScore": 15,
+            "score": 15,
+            "reason": "同义词替换后匹配，得15分 ✓"
+          },
+          {
+            "index": 5,
+            "studentAns": "1、个人改善2、团队改善3、价值流改善",
+            "isCorrect": true,
+            "earnedScore": 11,
+            "totalScore": 20,
+            "score": 20,
+            "reason": "按要点给分：要点1\"个人改善\"：✓+2.9分；要点2\"减少浪费\"：✗；要点3\"团队改善\"：✓+2.9分；要点4\"点改善\"：✓+2.9分；要点5\"处理复杂的问题\"：✗；要点6\"价值流改善\"：✓+2.9分；要点7\"供应链改善\"：✗，合计得11/20分",
+            "points": [
+              {
+                "text": "个人改善",
+                "matched": true,
+                "score": 2.9,
+                "detail": "简写匹配"
+              },
+              {
+                "text": "减少浪费",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              },
+              {
+                "text": "团队改善",
+                "matched": true,
+                "score": 2.9,
+                "detail": "简写匹配"
+              },
+              {
+                "text": "点改善",
+                "matched": true,
+                "score": 2.9,
+                "detail": "语义相似"
+              },
+              {
+                "text": "处理复杂的问题",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              },
+              {
+                "text": "价值流改善",
+                "matched": true,
+                "score": 2.9,
+                "detail": "简写匹配"
+              },
+              {
+                "text": "供应链改善",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              }
+            ]
+          },
+          {
+            "index": 6,
+            "studentAns": "1、市场和价格权衡，核心工具是QFD2、组织间的发展，与供应商合作降本3、关注各阶段成本",
+            "isCorrect": true,
+            "earnedScore": 10,
+            "totalScore": 20,
+            "score": 20,
+            "reason": "按要点给分：要点1\"市场价格的权衡\"：✓+2分；要点2\"和供应商之间的谈判\"：✗；要点3\"价格的敏感性分析\"：✗；要点4\"狩野模型\"：✗；要点5\"QFD\"：✓+2分；要点6\"六西格玛\"：✗；要点7\"价值工程\"：✗；要点8\"组织间的发展\"：✓+2分；要点9\"与供应商合作降本\"：✓+2分；要点10\"关注各阶段成本管理\"：✓+2分，合计得10/20分",
+            "points": [
+              {
+                "text": "市场价格的权衡",
+                "matched": true,
+                "score": 2,
+                "detail": "语义相似"
+              },
+              {
+                "text": "和供应商之间的谈判",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              },
+              {
+                "text": "价格的敏感性分析",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              },
+              {
+                "text": "狩野模型",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              },
+              {
+                "text": "QFD",
+                "matched": true,
+                "score": 2,
+                "detail": "包含关键词"
+              },
+              {
+                "text": "六西格玛",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              },
+              {
+                "text": "价值工程",
+                "matched": false,
+                "score": 0,
+                "detail": "未命中"
+              },
+              {
+                "text": "组织间的发展",
+                "matched": true,
+                "score": 2,
+                "detail": "简写匹配"
+              },
+              {
+                "text": "与供应商合作降本",
+                "matched": true,
+                "score": 2,
+                "detail": "简写匹配"
+              },
+              {
+                "text": "关注各阶段成本管理",
+                "matched": true,
+                "score": 2,
+                "detail": "组合匹配"
+              }
+            ]
+          }
+        ],
+        "submittedAt": 1780645567750,
+        "regradedAt": 1780648303466
+      }
+    }
+  }
+}
